@@ -3,7 +3,7 @@ import './Courses.css'; // Create and style this
 
 const Courses = () => {
   const courses = [
-    { title: 'Web Development', description: 'Learn to build modern websites.', thumbnail: 'web-dev.jpg' },
+    { title: 'Web Development', description: 'Learn to build modern websites.', thumbnail: 'https://media.istockphoto.com/id/1371339413/photo/co-working-team-meeting-concept-businessman-using-smart-phone-and-digital-tablet-and-laptop.jpg?s=1024x1024&w=is&k=20&c=YdGWQdXQYg-G1H89Q12soaleNQEKH9JpihwvrLdFHeA=' },
     { title: 'Data Science', description: 'Master data analysis and machine learning.', thumbnail: 'data-science.jpg' },
   ];
 
