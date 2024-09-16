@@ -1,7 +1,7 @@
 .admin-panel-container {
     padding-top: 100px; /* Ensures the content is pushed down below the Navbar */
     padding: 20px;
-    text-align: center;
+    text-align: center;  /* text align */
 }
 
 .admin-panel-container h1 {
